@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776223385884",
+    "project_id": "challenge-cb3a7",
+    "storage_bucket": "challenge-cb3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776223385884:android:48255f0590607ce54932d9",
+        "android_client_info": {
+          "package_name": "com.example.smash_gift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776223385884-88454elqg9f97ujgnbht59299nd7hil2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSthLw8jHBib5OL5Fdeu8kPb0zXlZ83wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776223385884-88454elqg9f97ujgnbht59299nd7hil2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
